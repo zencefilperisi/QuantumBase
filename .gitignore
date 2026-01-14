@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments 
+.venv/
+venv/
+ENV/
+env/
+qbase_env/
+
+# IDEs 
+.vscode/
+.idea/
+
+# Project Outputs 
+results/
+reports/
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+# Large data files 
+*.fast5
+*.csv
+*.txt
